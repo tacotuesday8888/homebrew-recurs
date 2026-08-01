@@ -1,9 +1,9 @@
 class Recurs < Formula
   desc "Coding-agent harness with durable, bounded team orchestration"
   homepage "https://github.com/tacotuesday8888/recurs"
-  url "https://registry.npmjs.org/recurs/-/recurs-0.1.0-alpha.4.tgz"
-  version "0.1.0-alpha.4"
-  sha256 "743bf4389c54ac302a72990b7e856ecd86cd38c5d0389128a6c16428f17e99cf"
+  url "https://registry.npmjs.org/recurs/-/recurs-0.1.0-alpha.5.tgz"
+  version "0.1.0-alpha.5"
+  sha256 "b5db9613a3f77cea97176b5b2df89523ef914bd4a29a17f856a8a8fe9b284598"
   license "Apache-2.0"
 
   depends_on "node"
